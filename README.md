@@ -1,26 +1,6 @@
 # 63rabbits.github.io
 
 
-$$
-\displaystyle
-\begin{eqnarray*}
-|\vec{a}| &=& a_x^2 + a_y^2 \\
-&=& \sqrt{\vec{a} \cdot \vec{a}} \\
-\end{eqnarray*}
-$$
+<img src="https://latex.codecogs.com/gif.latex?|\vec{a}|&space;=&space;\sqrt{&space;a_x^2&space;&plus;&space;a_y^2}&space;\\&space;=&space;\sqrt{\vec{a}&space;\cdot&space;\vec{a}}">
 
-
-
-
-$$
-\displaystyle
-\begin{eqnarray*}
-\vec{a} \cdot \vec{b} &=& |\vec{a}| |\vec{b}|\cos \theta \\
-&=& |\vec{a}| |\vec{b}|(\cos\alpha \cos \beta + \sin \alpha \sin \beta) \\
-&=& |\vec{a}| |\vec{b}|(\frac{a_x b_x}{|\vec{a}||\vec{b}|} + \frac{a_y b_y}{|\vec{a}||\vec{b}|}) \\
-&=& a_x b_x + a_y b_y
-\end{eqnarray*}
-$$
-
-
-
+<img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;\cdot&space;\vec{b}&space;=&space;|\vec{a}|&space;|\vec{b}|\cos&space;\theta&space;\\&space;=&space;|\vec{a}|&space;|\vec{b}|(\cos\alpha&space;\cos&space;\beta&space;&plus;&space;\sin&space;\alpha&space;\sin&space;\beta)&space;\\&space;=&space;|\vec{a}|&space;|\vec{b}|(\frac{a_x&space;b_x}{|\vec{a}||\vec{b}|}&space;&plus;&space;\frac{a_y&space;b_y}{|\vec{a}||\vec{b}|})&space;\\&space;=&space;a_x&space;b_x&space;&plus;&space;a_y&space;b_y">
