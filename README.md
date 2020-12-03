@@ -1,6 +1,6 @@
 # 63rabbits.github.io
 
-[text](next/x.html)
+[点と直線の垂直距離](next/x.html)
 
 ---
 
