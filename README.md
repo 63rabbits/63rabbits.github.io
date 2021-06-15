@@ -2,6 +2,7 @@
 
 [点と直線の垂直距離](next/x.html)
 
+$f$
 
 $$
 \begin{align}T(n) &= O(1) + O(\log n)\\
