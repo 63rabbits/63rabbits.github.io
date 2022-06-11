@@ -1,5 +1,10 @@
 # [63rabbits.github.io](https://63rabbits.github.io)
 
+- [go to github-pages](https://63rabbits.github.io)
+- [go to code](https://github.com/63rabbits/63rabbits.github.io)
+
+---
+
 リンクはこんな感じで：[点と直線の垂直距離](next/x.html)
 
 
